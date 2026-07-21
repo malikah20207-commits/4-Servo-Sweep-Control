@@ -37,6 +37,8 @@ The following image shows the simulation after the servo motors complete the swe
 
 ![Simulation](circuit.png)
 
+## Tinkercad Simulationhttps
+://www.tinkercad.com/things/5S6TLEQH2Q6-exquisite-lappi-duup
 
 ## Author
 Sara Saud Alotaibi
